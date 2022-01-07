@@ -6,3 +6,7 @@
 - 🤔 I’m looking for help with any of the opensource projects I'm active on
 - 📫 How to reach me: [email](mailto:mondain@gmail.com)
 - ⚡ Fun fact: Nothing rhymes with Orange
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mondain&show_icons=true&theme=github_dark" >
+</p>

@@ -14,5 +14,5 @@
 - ⚡ Fun fact: Nothing rhymes with Orange
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mondain&show_icons=true&theme=github_dark" >
+  <!--img src="https://github-readme-stats.vercel.app/api?username=mondain&show_icons=true&theme=github_dark" -->
 </p>
